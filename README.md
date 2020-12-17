@@ -30,5 +30,5 @@ After creating a new dataset with some processed features, a ML model is develop
 conclusion from the first and last models look promising without great optimization.
 
 ## References
-1- Course material at Udacity has been used for reference. 
+1- Course material at Udacity has been used for reference.          
 2- pySpark documentation:  https://spark.apache.org/docs/latest/api/python/index.html 
