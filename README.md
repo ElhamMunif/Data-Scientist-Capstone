@@ -5,9 +5,8 @@ This project is the final part of Udacity Data Science Nano-degree . In this pro
 
 ## Overview of Files
 Data Files
-README.md: This readme file which is contain the describtion of this project.
+README.md: This readme file which is contain the describtion of this project.  
 Sparkify.ipynb: Notebook used in Udacity Workspace.
-mini_sparkify_event_data.json: Data file.
 
 
 ## Required installation
