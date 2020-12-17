@@ -3,7 +3,7 @@
 ## Overview
 This project is the final part of Udacity Data Science Nano-degree . In this project, I will build a predictive model to detect users, who will cancel their subscription, before they cancel it to develop maybe offers or advertisement campaigns for them.
 
-# Expected Results
+## Expected Results
 At the end of this project, a model for churn prediction should have been created and evaluated. The model should have been trained and tested on a subset of the 12GB of data.
 
 ## Overview of Files
