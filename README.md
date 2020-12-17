@@ -1,5 +1,5 @@
 # Sparkify User Churn Prediction
-## Project Definition
+
 ## Overview
 This project is the final part of Udacity Data Science Nano-degree . In this project, I will build a predictive model to detect users, who will cancel their subscription, before they cancel it to develop maybe offers or advertisement campaigns for them.
 
